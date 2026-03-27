@@ -1,3 +1,5 @@
+[English](README_EN.md) | **中文**
+
 # migo-architect-thoughts
 关于 AI、架构与软件工程的底层思考。
 
